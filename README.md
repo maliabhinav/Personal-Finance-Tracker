@@ -1,7 +1,7 @@
 # Personal-Finance-Tracker
 Personal Finance Tracker is a web application that helps you manage your finances effectively. With this application, you can track your income and expenses, set budgets, and gain better control over your financial health. 
 
-<img width="960" alt="image" src="">
+<src="https://github.com/maliabhinav/Personal-Finance-Tracker/tree/main">
 
 
 ## Features
@@ -22,11 +22,6 @@ Personal Finance Tracker is a web application that helps you manage your finance
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 
 ## Acknowledgements
 
